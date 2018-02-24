@@ -1,0 +1,9 @@
+Datasets:
+
+  * https://www.kaggle.com/vardial/dslcc, s. also http://ttg.uni-saarland.de/resources/DSLCC/
+
+      The DSLCC is a multilingual collection of short excerpts of journalistic
+      texts. It has been used as the main data set for the DSL shared tasks organized within the scope of the workshop
+      on NLP for Similar languages, Varieties and Dialects (VarDial). For more information, please check the DSL shared
+      task reports (links below) or the website of past editions of VarDial workshop: VarDial 2017 at EACL, VarDial 2016
+      at COLING, LT4VarDial 2015 at RANLP, and VarDial 2014 at COLING.
