@@ -24,9 +24,8 @@ public class Counter {
         return counts;
     }
 
-    public List<String> getSortedKeys() {
-        List<String> keys = new ArrayList<>(counts.keySet());
-        Collections.sort(keys);
-        return keys;
+    public List<String> getKeys() {
+        return new ArrayList<>(counts.keySet());
     }
+
 }
