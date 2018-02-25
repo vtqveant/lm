@@ -1,5 +1,8 @@
 syntax: glob
 
-data/
+data/dslcc4/
+data/dslcc4.zip
+
 .idea/
 *.iml
+target/
